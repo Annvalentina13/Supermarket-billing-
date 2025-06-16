@@ -43,7 +43,7 @@ A fully functional **Supermarket Billing System** built using Python's `tkinter`
 ---
 
 ## supermarket-billing-system/
- │
- ├── supermarket_billing.py   # Main application code
- ├── saved_bills/             # Folder where generated bills are saved (created automatically)
- └── README.md                # Project documentation
+ - │
+ - ├── supermarket_billing.py   # Main application code
+ - ├── saved_bills/             # Folder where generated bills are saved (created automatically)
+ - └── README.md                # Project documentation
